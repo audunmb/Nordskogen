@@ -1,22 +1,48 @@
 # Nordskogsmonster
 
-Jernbustsvin
-Jernbustsvin er villsvin i den beryktede Rødskogen som har fått bust av jern. 
+Area: Jernskogen
 
-Gapagalte 
-Gapagalten er det største villsvinet i skogen, med et gap som er stort nok til å sluke en vette og ta en ork i tre jafser. 
+### Jernbustsvin
+Fearsome boars from the red-tinted parts of the forest known as Jernskogen. While they are the size of regular boars, the bristles are seemingly made of iron. As such, they are even worse to fight than regular boars. Though, the thin iron bristle is often a valuable resource. 
 
-Skarphorn (okse)
-Skarphorn er okser i Rødskogen, med horn av jern som er skarpe som kniver. 
+### Skarphornokse
+Similar to the regular skaukveg, the skarphorn in Jernskogen has horn that are seemingly made of iron and sharp as knives.
 
+Area: everywhere
+
+## Skaukveg
+The cattle of orks, these longhaired beasts provide milk and meat. 
+
+## Gapagalte 
+Simply an enourmous boar, big enough to eat a goblin whole and take an ork in three bites. 
+
+## Trollelg
+An elk with long raggy hide, often covered in moss. Very rare, and it has mysterious powers that make it impossible to catch. Often seen where trolls live. It's antlers are made of stone. 
+
+## Tannfryskje
+Sometimes black, sometimes yellowish brown, white during the winter. A large lynx with enourmous protuding fangs that can tear up much larger animals. 
+
+## Horngaupe
+A 
+
+Trollelg 
+En stor og kraftig elg, med lang raggete pels, ofte mosegrodd. Svært sjelden og med trolldom som gjør den umulig å fange. Ofte sammen med troll. Har gevir av stein.
+
+
+
+Area: Vidda
 Moskus 
 På viddene og noen ganger streifende ned i skogen er det moskus. 
+
+
+Area: Kjempeskogen
+Kjempehjort
+Among the giant trees there's the giant deer. Enourmous, but fast, brave hunters sometimes dare to hunt in the giant forest to catch this prize. The antlers are found in courtrooms far from the forest. 
+
 
 Kjempehjort
 Mellom kjempetrærne finnes også kjempehjorten. Enorm og rask, men de modigste jegerne drar noen ganger for å fange den. Gevir fra kjempehjort er høystatus-symboler langt utenfor skogen. 
 
-Trollelg 
-En stor og kraftig elg, med lang raggete pels, ofte mosegrodd. Svært sjelden og med trolldom som gjør den umulig å fange. Ofte sammen med troll. Har gevir av stein.
 
 Langtann (sabeltanngaupe)
 Noen ganger svart, andre ganger gulbrun, hvit i snøen. Tre ganger så stor som en vanlig gaupe, med enorme hoggtenner som den river opp store dyr med. 
