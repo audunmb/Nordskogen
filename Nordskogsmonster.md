@@ -8,36 +8,66 @@ Fearsome boars from the red-tinted parts of the forest known as Jernskogen. Whil
 ### Skarphornokse
 Similar to the regular skaukveg, the skarphorn in Jernskogen has horn that are seemingly made of iron and sharp as knives.
 
-Area: everywhere
+Area: The forest
+Regular animals:
+Wolf, boar, lynx, elk (moose), fox, wolverines, eagles, falcons, deer, roe deer, bear, crow, ravens, magpies, grouse, beavers or any other animal you expect to find in a Northern European forest. 
+
 
 ## Skaukveg
-The cattle of orks, these longhaired beasts provide milk and meat. 
+Longhaired beasts, similar to southern cattle, but larger, long haired and with long horns. While the orks threat them as cattle, the difference between tame and wild skaukveg is mainly how afraid they are of orks. They live in large herds and trek from the forest highland in the summer to the denser lowlands in the winter. 
 
 ## Gapagalte 
-Simply an enourmous boar, big enough to eat a goblin whole and take an ork in three bites. 
+An enourmous boar, with a maw that can swallow a goblin whole and take an ork in three bites. 
+
+## Trolls
+Trolls come in many sizes, but even the largest are often difficult to spot. They are seemingly made of stone, earth and wood, more like the forest itself taking on humanoid form than actual peoples. They mostly sleep, and the older and larger they are, the longer they sleep. As they sleep, plants may grow on them, though these plants will become part of the troll. Some of the mountains in the forest may be enourmous trolls that have slept for centuries. Goblins threat trolls as spirits, but when they are awake anyone may communicate with them. Though, waking a troll will anger them, and you don't want an angry troll. Fighting a troll is like fighting stone, earth and wood, and you can't really harm it. 
 
 ## Trollelg
-An elk with long raggy hide, often covered in moss. Very rare, and it has mysterious powers that make it impossible to catch. Often seen where trolls live. It's antlers are made of stone. 
+An elk that like trolls seem to be made of the ground and forest itself. It's antlers are made of stone, and is rumoured to have magical properties.
 
-## Tannfryskje
-Sometimes black, sometimes yellowish brown, white during the winter. A large lynx with enourmous protuding fangs that can tear up much larger animals. 
 
 ## Horngaupe
-A 
+A large cat animal with horns, reminiscent of a tiger, but with horns. According to some accounts they are as intelligent as people, though they can't talk. 
 
-Trollelg 
-En stor og kraftig elg, med lang raggete pels, ofte mosegrodd. Svært sjelden og med trolldom som gjør den umulig å fange. Ofte sammen med troll. Har gevir av stein.
-
-
-
-Area: Vidda
-Moskus 
-På viddene og noen ganger streifende ned i skogen er det moskus. 
+## Hulderhane
+cockatrice.
 
 
-Area: Kjempeskogen
-Kjempehjort
-Among the giant trees there's the giant deer. Enourmous, but fast, brave hunters sometimes dare to hunt in the giant forest to catch this prize. The antlers are found in courtrooms far from the forest. 
+Area: Nordvidda
+Regular animals: Muskoxen, reindeer, foxes, ermine, rock grouse and other animals you'd expect to to find arctic and sub-arctic highlands and mountains. 
+
+
+## Tannfryskje
+Sometimes black, sometimes yellowish brown, white during the winter. A huge cat animal with enourmous protuding fangs that it uses to tear up it's prey. 
+
+
+## Unicorn
+A huge hairy beast that with large horn on it's nose. The horn is rumoured to have magical properties. They will attack any perceived threat to their pack. Though, higland goblins sometimes ride these beasts.
+
+## Tricorn
+Twice the size of the unicorn, the tricorn have a horn on the nose along with two regular horns. More docile than the fierce unicorn, both orks and goblins sometimes mount these beasts. 
+
+
+Area: Gammalskogen
+Known for their gigantic and ancient threes, this part of the forest is shunned even by the goblins. It's rumoured to be home of enourmous animals and monsters, as well as ancient magic. 
+
+## Storkrone
+Among the giant trees there's the giant deer. Enourmous, but fast, brave hunters sometimes dare to hunt in the giant forest to catch this prize. The antlers are found in courtrooms far from the forest, as one of the most majestic symbol known.
+
+## Jøtulkorp
+The Jøtulkorp is an enourmous raven, with a wingspan the size of four skaukveg, known to have deep wisdom and ancient magic. It lives somewhere in Gammalskogen, but sometimes it roams other parts of the forest and is rumoured to visit important goblin _galdrer_ when it does. Whether it is one ancient raven, or a murder of them remains a mystery. 
+
+## Lindorm
+Probably the main danger in Gammalskogen, these enourmous wyrms have sharp swordlong teeth and spit acidic poison. They'll eat people, even though they can talk. 
+
+Area: Myra
+
+## Hulder
+
+## Morildorm
+
+## Hulderkatt
+
 
 
 Kjempehjort
@@ -59,6 +89,10 @@ Kimeraen
 Et trehodet beist skapt en av en ørn, en galte og en okse som ble skapt av en alvemagiker for lenge siden. Magikeren er død for lenge siden og siden har beistet bodd ved en klippe et sted i skogen. Orkene hater den siden den stjeler dyr med jevne mellomrom og er umulig å holde unna. Alvene undrer seg derimot over hvordan den ble skapt og hvorfor, men kanskje også på om de kan gjenvinne kontrollen over den.
 
 
+
+
+Trollelg 
+En stor og kraftig elg, med lang raggete pels, ofte mosegrodd. Svært sjelden og med trolldom som gjør den umulig å fange. Ofte sammen med troll. Har gevir av stein.
 Griff
 
 Lindorm
