@@ -29,8 +29,13 @@ An elk that like trolls seem to be made of the ground and forest itself. It's an
 ## Horngaupe
 A large cat animal with horns, reminiscent of a tiger, but with horns. According to some accounts they are as intelligent as people, though they can't talk. 
 
-## Hulderhane
-cockatrice.
+## Ormhane
+Half rooster, half snake and with poisonous breath that will paralyze it's prey, just keep away from them. 
+
+## Trolltiur
+Beatiful in all it's colors, but fearsome. Similar to the wood grouse, but large as an ork. It's courtship display, tiurleik, are magical displays of color and light reminiscient of northern lights, but playing around it the forest rather than in the sky. If interrupted, it may attack and the magic turns from playful to deadly. 
+
+
 
 
 Area: Nordvidda
@@ -62,12 +67,17 @@ Probably the main danger in Gammalskogen, these enourmous wyrms have sharp sword
 
 Area: Myra
 
-## Hulder
+## Huldra
+Appearing as a beatiful woman (adapting to it's victims species) Huldra tries to lure males into the fen where they disappear in the mists never to been seen again. Some claim that Huldra drags the victom into the spirit world where they keep it as a mate, other claims that the victims drown in the mire while others claim that Huldra actually is an apparition from a monster that will eat the victim. Anyhow, unless you resist the seductive lure of Huldra, you will disappear in the mist never to be seen againg. 
 
 ## Morildorm
+Smaller than the lindorm, but still large enough to eat you, the wyrm hunts at night, pitch black until you're suddenly blinded by the flash from it's glowing body. 
+
 
 ## Hulderkatt
 
+## Skoddemøya
+Similar to the hulder, in that she appears as a beatiful elf woman, the skoddemøy won't attempt to lure anyone into it's waters. Rather shw will attack fiercly anyone that enters near it. Appearing in a thin mist, she dances on the water often seemingly clad in gold, silver and jewels. 
 
 
 Kjempehjort
