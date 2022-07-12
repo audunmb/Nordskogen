@@ -13,28 +13,30 @@ Regular animals:
 Wolf, boar, lynx, elk (moose), fox, wolverines, eagles, falcons, deer, roe deer, bear, crow, ravens, magpies, grouse, beavers or any other animal you expect to find in a Northern European forest. 
 
 
-## Skaukveg
+### Skaukveg
 Longhaired beasts, similar to southern cattle, but larger, long haired and with long horns. While the orks threat them as cattle, the difference between tame and wild skaukveg is mainly how afraid they are of orks. They live in large herds and trek from the forest highland in the summer to the denser lowlands in the winter. 
 
-## Gapagalte 
+### Gapagalte 
 An enourmous boar, with a maw that can swallow a goblin whole and take an ork in three bites. 
 
-## Trolls
+### Trolls
 Trolls come in many sizes, but even the largest are often difficult to spot. They are seemingly made of stone, earth and wood, more like the forest itself taking on humanoid form than actual peoples. They mostly sleep, and the older and larger they are, the longer they sleep. As they sleep, plants may grow on them, though these plants will become part of the troll. Some of the mountains in the forest may be enourmous trolls that have slept for centuries. Goblins threat trolls as spirits, but when they are awake anyone may communicate with them. Though, waking a troll will anger them, and you don't want an angry troll. Fighting a troll is like fighting stone, earth and wood, and you can't really harm it. 
 
-## Trollelg
+### Trollelg
 An elk that like trolls seem to be made of the ground and forest itself. It's antlers are made of stone, and is rumoured to have magical properties.
 
 
-## Horngaupe
+### Horngaupe
 A large cat animal with horns, reminiscent of a tiger, but with horns. According to some accounts they are as intelligent as people, though they can't talk. 
 
-## Ormhane
+### Ormhane
 Half rooster, half snake and with poisonous breath that will paralyze it's prey, just keep away from them. 
 
-## Trolltiur
+### Trolltiur
 Beatiful in all it's colors, but fearsome. Similar to the wood grouse, but large as an ork. It's courtship display, tiurleik, are magical displays of color and light reminiscient of northern lights, but playing around it the forest rather than in the sky. If interrupted, it may attack and the magic turns from playful to deadly. 
 
+### The chimera
+A beast with three heads, one from a boar, one from an eagle and one from an ox. It has eagle wings, ox hoves and the body of a boar. I was created by an elf sorcerers a long time ago. The sorcerer is long dead and it nests on cliff far into the forest, near the highlands. Orks hate it as it eats their cattle and is impossible to fight off. Elfs wonder why and how it was created, and whether a new sorcerer can gain control of it. 
 
 
 
@@ -42,42 +44,66 @@ Area: Nordvidda
 Regular animals: Muskoxen, reindeer, foxes, ermine, rock grouse and other animals you'd expect to to find arctic and sub-arctic highlands and mountains. 
 
 
-## Tannfryskje
+### Tannfryskje
 Sometimes black, sometimes yellowish brown, white during the winter. A huge cat animal with enourmous protuding fangs that it uses to tear up it's prey. 
 
 
-## Unicorn
+### Unicorn
 A huge hairy beast that with large horn on it's nose. The horn is rumoured to have magical properties. They will attack any perceived threat to their pack. Though, higland goblins sometimes ride these beasts.
 
-## Tricorn
+### Tricorn
 Twice the size of the unicorn, the tricorn have a horn on the nose along with two regular horns. More docile than the fierce unicorn, both orks and goblins sometimes mount these beasts. 
+
+### Flaggerorm
+A huge flying wyrm that attacks from the sky. Mostly eats unicorns and tricorns, but anything larger than a wolf moving on the ground may get swooped up and eaten. 
 
 
 Area: Gammalskogen
 Known for their gigantic and ancient threes, this part of the forest is shunned even by the goblins. It's rumoured to be home of enourmous animals and monsters, as well as ancient magic. 
 
-## Storkrone
-Among the giant trees there's the giant deer. Enourmous, but fast, brave hunters sometimes dare to hunt in the giant forest to catch this prize. The antlers are found in courtrooms far from the forest, as one of the most majestic symbol known.
+### Storkrone
+Among the giant trees there's the giant deer, also known as _storkrone_. Enourmous, but fast, brave hunters sometimes dare to hunt in the giant forest to catch this prize. The antlers are found in courtrooms far from the forest, as one of the most majestic symbol known.
 
-## Jøtulkorp
+### Jøtulkorp
 The Jøtulkorp is an enourmous raven, with a wingspan the size of four skaukveg, known to have deep wisdom and ancient magic. It lives somewhere in Gammalskogen, but sometimes it roams other parts of the forest and is rumoured to visit important goblin _galdrer_ when it does. Whether it is one ancient raven, or a murder of them remains a mystery. 
 
-## Lindorm
-Probably the main danger in Gammalskogen, these enourmous wyrms have sharp swordlong teeth and spit acidic poison. They'll eat people, even though they can talk. 
+### Lindorm
+Probably the main danger in Gammalskogen, these enourmous creeping wyrms have sharp swordlong teeth and spit acidic poison. They'll eat people, even though they can talk. 
 
 Area: Myra
 
-## Huldra
+### Huldra
 Appearing as a beatiful woman (adapting to it's victims species) Huldra tries to lure males into the fen where they disappear in the mists never to been seen again. Some claim that Huldra drags the victom into the spirit world where they keep it as a mate, other claims that the victims drown in the mire while others claim that Huldra actually is an apparition from a monster that will eat the victim. Anyhow, unless you resist the seductive lure of Huldra, you will disappear in the mist never to be seen againg. 
 
-## Morildorm
+### Morildorm
 Smaller than the lindorm, but still large enough to eat you, the wyrm hunts at night, pitch black until you're suddenly blinded by the flash from it's glowing body. 
 
+### Hulderkatt
+The size of a lynx, but white with light grey stripes, it hunts in the mists on the mire. Some claim it is Huldra's cat, others claim that it stems from the same spirit realm that she lives in. Others say that is isn't truly able to be invisible, it just is camoflouaged in the mists. 
 
-## Hulderkatt
+### Skoddemøya
+Similar to Huldra, in that she appears as a beatiful elf woman, the skoddemøy won't attempt to lure anyone into it's waters. Rather shw will attack fiercly anyone that enters near it. Appearing in a thin mist, she dances on the water often seemingly clad in gold, silver and jewels. 
 
-## Skoddemøya
-Similar to the hulder, in that she appears as a beatiful elf woman, the skoddemøy won't attempt to lure anyone into it's waters. Rather shw will attack fiercly anyone that enters near it. Appearing in a thin mist, she dances on the water often seemingly clad in gold, silver and jewels. 
+
+## Riser
+Riser (ogres) are solitary creatures, though some prefer company and live with orks or goblins. Exactly where they come from, how they procreate and if there really is any relation between different kinds besides the shared name is not known. 
+
+### Rise
+The regular ogre seems like a huge goblin, as large as one and a half to two orks. They are slow, but strong, and usually live alone in the forest. 
+
+### Galtrise, Vargrise, Tyrrise, Bjønnrise and Bukkrise
+These ogres are all half animal, half ork, though they are usually as high as one and half ork. The head is that of an animal, while the body has arms, torso and legs like orks and other people, except that they seem overgrown. Galtrise has the head of a boar, Vargrise that of a wolf, Tyrrise that of a bull and Bukkrise that of a goat. 
+Some say that they are berserkers who've been stuck in their half form. 
+
+### Gammalrise
+Maybe just an orkish myth, the Elder Ogres or Gammalriser, are said to be wise giants who know all the mysteries of the forest. Ork mystics and prophets sometimes claim to have met them and learnt from them. If they exist, they probaby live in Gammalskogen. 
+
+### Skaurise
+Skauriser looks more lika a ogre-sized elf, though with antlers and ears like a lynx or fox. They claim to be able to talk to all creatures in the forest, as well as the threes and rivers. They will never fight, but if attacked, they will dissiapate into the forest. Anyone who tries to follow them will get lost for days in the forest. 
+
+
+
+
 
 
 Kjempehjort
@@ -126,13 +152,7 @@ Troll
 
 Riser
 
-- Galtrise
-- Vargrise 
-- Tyrrise 
-- Bjønnrise 
-- Skogrise 
-- Storrise 
-- Rise 
+
 
 Huldrehane 
 
