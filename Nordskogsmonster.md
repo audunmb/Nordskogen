@@ -33,11 +33,17 @@ A large cat animal with horns, reminiscent of a tiger, but with horns. According
 Half rooster, half snake and with poisonous breath that will paralyze it's prey, just keep away from them. 
 
 ### Trolltiur
-Beatiful in all it's colors, but fearsome. Similar to the wood grouse, but large as an ork. It's courtship display, tiurleik, are magical displays of color and light reminiscient of northern lights, but playing around it the forest rather than in the sky. If interrupted, it may attack and the magic turns from playful to deadly. 
+Beatiful in all it's colors, but fearsome. Similar to the wood grouse, but the male _tiur_ is large as an ork. It's courtship display, tiurleik, are magical displays of color and light reminiscient of northern lights, but playing around it the forest rather than in the sky. If interrupted, it may attack and the magic turns from playful to deadly. 
+
 
 ### The chimera
 A beast with three heads, one from a boar, one from an eagle and one from an ox. It has eagle wings, ox hoves and the body of a boar. I was created by an elf sorcerers a long time ago. The sorcerer is long dead and it nests on cliff far into the forest, near the highlands. Orks hate it as it eats their cattle and is impossible to fight off. Elfs wonder why and how it was created, and whether a new sorcerer can gain control of it. 
 
+### Lakewyrm
+Ancient and wise, three lake wyrms live in the large lakes in the forest. They have knowledge of many things, but usually do not speak to people. 
+
+### The dragon
+The dragon is a fearsome flying beast who breath fire. It's scales are as hard as steel. It was imprisoned in Drakefjellet by elven warriors thousand years ago, when the elves first conquered the forest. Though, it is immortal and it rages somewhere inside the mountain. Sometimes, smoke and fire spit out from the mountain as the dragon battles it's chains. 
 
 
 Area: Nordvidda
@@ -54,8 +60,8 @@ A huge hairy beast that with large horn on it's nose. The horn is rumoured to ha
 ### Tricorn
 Twice the size of the unicorn, the tricorn have a horn on the nose along with two regular horns. More docile than the fierce unicorn, both orks and goblins sometimes mount these beasts. 
 
-### Flaggerorm
-A huge flying wyrm that attacks from the sky. Mostly eats unicorns and tricorns, but anything larger than a wolf moving on the ground may get swooped up and eaten. 
+### Flaggerorm (wyvern)
+A huge flying four-legged wyrm that attacks from the sky. Mostly eats unicorns and tricorns, but anything larger than a wolf moving on the ground may get swooped up and eaten. 
 
 
 Area: Gammalskogen
@@ -68,7 +74,10 @@ Among the giant trees there's the giant deer, also known as _storkrone_. Enourmo
 The Jøtulkorp is an enourmous raven, with a wingspan the size of four skaukveg, known to have deep wisdom and ancient magic. It lives somewhere in Gammalskogen, but sometimes it roams other parts of the forest and is rumoured to visit important goblin _galdrer_ when it does. Whether it is one ancient raven, or a murder of them remains a mystery. 
 
 ### Lindorm
-Probably the main danger in Gammalskogen, these enourmous creeping wyrms have sharp swordlong teeth and spit acidic poison. They'll eat people, even though they can talk. 
+Probably the main danger in Gammalskogen, these enourmous creeping wyrms have manes, sharp swordlong teeth and spit acidic poison. The two feet with long claws are mainly used for fighting. They'll consider people food, even though they can talk. They live in underground lairs, often connected by long tunnels and may suddenly spring forth from the earth when attacking. 
+
+### Tordenormen
+Rumoured to be the largest and oldest lindorm, it's known as the _thunder wyrm_ as it may rise up and drop to the ground, creating a thunderlike blast due to it's massive size. 
 
 Area: Myra
 
@@ -83,6 +92,26 @@ The size of a lynx, but white with light grey stripes, it hunts in the mists on 
 
 ### Skoddemøya
 Similar to Huldra, in that she appears as a beatiful elf woman, the skoddemøy won't attempt to lure anyone into it's waters. Rather shw will attack fiercly anyone that enters near it. Appearing in a thin mist, she dances on the water often seemingly clad in gold, silver and jewels. 
+
+### Elvedrage
+An dragonlike creature found in rivers near the Dragon mountain, often near hot springs. It may attack anything along the shores, dragging into to the river where it is consumed nearly whole.
+
+### Storskall
+A turtle found in the lakes, rivers and sometimes in mire, ranging from the size of a fox to the size of a large horse. Some claim that they can talk, but orks eat them and use their shells to create shields, armour and other kinds of plating. 
+
+
+# Other people in the forest:
+
+### Gammalkråke (Elder crows)
+Large crows that talk are common in Nordskogen, and they are also known further south where they are popular with farmers as they keep other crows away from the crops. 
+They are very secretive about their origins, but it is believed to be somewhere in Gammalskogen. They claim to be like regular crows, only older. Most peoples in Nordskogen as such consider all crows to be people.
+As crows they never stop growing, and some may be as large as a small goat, though most only appear as large crows. Most crows only stay in the same place for a few years, before they fly away. Presumably they fly to somewhere else, and sometimes they talk about places they've lived before. Exactly how old the crows can get is part of their secret, and maybe centuries old crows live somewhere in Gammelskogen. 
+
+###Gammalkorp
+Similar to the gammalkråke, but a raven, and less common outside Gammalskogen. 
+
+###Gammalørn
+Enormous eagles who also can talk, they are sometimes seen in Gammalskogen, though they seem to live high up in the northern mountains.
 
 
 ## Riser
