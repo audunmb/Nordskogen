@@ -6,12 +6,26 @@ Area: Jernskogen
 Fearsome boars from the red-tinted parts of the forest known as Jernskogen. While they are the size of regular boars, the bristles are seemingly made of iron. As such, they are even worse to fight than regular boars. Though, the thin iron bristle is often a valuable resource. 
 
 ### Skarphornokse
-Similar to the regular skaukveg, the skarphorn in Jernskogen has horn that are seemingly made of iron and sharp as knives.
+Similar to the wild skaukveg, the skarphorn in Jernskogen has horn that are seemingly made of iron and sharp as knives.
+
+### Jernjerv
+The wolverine in Jernskogen has fangs of irons, making it even more dangerous than the regular wolverine. 
 
 Area: The forest
 Regular animals:
 Wolf, boar, lynx, elk (moose), fox, wolverines, eagles, falcons, deer, roe deer, bear, crow, ravens, magpies, grouse, beavers or any other animal you expect to find in a Northern European forest. 
 
+### Blåpels
+A giant bear, nearly the size of two orks when standing tall. Named for it's bluish black fur. 
+
+### Kvitbjørn
+A huge bear, but with white fur. Quite rare, but said to have magical powers. 
+
+### Trollbjørn
+A huge bear, nearly as big as the blåpels, with stonelike skin, covered in moss and may resemble a small mound when lying down. As it is paws are hard as stone, an angered trollbjørn is a danger even to a plated knight. 
+
+### Hornbjørn
+The horned bear has long goatlike horns protuding back from it's head and grey and white stripes. It is said to be highly intelligent and know many secrets, even though they can't talk. 
 
 ### Skaukveg
 Longhaired beasts, similar to southern cattle, but larger, long haired and with long horns. While the orks threat them as cattle, the difference between tame and wild skaukveg is mainly how afraid they are of orks. They live in large herds and trek from the forest highland in the summer to the denser lowlands in the winter. 
@@ -19,15 +33,21 @@ Longhaired beasts, similar to southern cattle, but larger, long haired and with 
 ### Gapagalte 
 An enourmous boar, with a maw that can swallow a goblin whole and take an ork in three bites. 
 
+### Storvarg
+The dire wolf hunts all across the forests and the mountains beyond. Unlike the regular wolf, it usually hunts alone and is quite terroritial. Orks hunt down any dire wolf they'll come across due the threat to their cattle. 
+
+### Tussejerv
+Smaller than the regular wolverine, but hunting in packs and prone to diseases that make them rabid. 
+
 ### Trolls
 Trolls come in many sizes, but even the largest are often difficult to spot. They are seemingly made of stone, earth and wood, more like the forest itself taking on humanoid form than actual peoples. They mostly sleep, and the older and larger they are, the longer they sleep. As they sleep, plants may grow on them, though these plants will become part of the troll. Some of the mountains in the forest may be enourmous trolls that have slept for centuries. Goblins threat trolls as spirits, but when they are awake anyone may communicate with them. Though, waking a troll will anger them, and you don't want an angry troll. Fighting a troll is like fighting stone, earth and wood, and you can't really harm it. 
 
 ### Trollelg
-An elk that like trolls seem to be made of the ground and forest itself. It's antlers are made of stone, and is rumoured to have magical properties.
+An elk that like trolls seem to be made of the ground and forest itself. It's antlers are made of stone, and is rumoured to have magical properties. While stamping it's hoves it may create ripples in the ground. 
 
 
 ### Horngaupe
-A large cat animal with horns, reminiscent of a tiger, but with horns. According to some accounts they are as intelligent as people, though they can't talk. 
+A large cat animal with horns, reminiscent of a tiger, but with goatlike horns. According to some accounts they are as intelligent as people, though they can't talk. 
 
 ### Ormhane
 Half rooster, half snake and with poisonous breath that will paralyze it's prey, just keep away from them. 
@@ -36,15 +56,24 @@ Half rooster, half snake and with poisonous breath that will paralyze it's prey,
 Beatiful in all it's colors, but fearsome. Similar to the wood grouse, but the male _tiur_ is large as an ork. It's courtship display, tiurleik, are magical displays of color and light reminiscient of northern lights, but playing around it the forest rather than in the sky. If interrupted, it may attack and the magic turns from playful to deadly. 
 
 
-### The chimera
-A beast with three heads, one from a boar, one from an eagle and one from an ox. It has eagle wings, ox hoves and the body of a boar. I was created by an elf sorcerers a long time ago. The sorcerer is long dead and it nests on cliff far into the forest, near the highlands. Orks hate it as it eats their cattle and is impossible to fight off. Elfs wonder why and how it was created, and whether a new sorcerer can gain control of it. 
+### Trollpadde
+An enourmous talking toad, the size of a bear, covered in moss and with stonelike skin. It hates elves and will attack them on sight. Due to it's stonelike features, it attacks by simply jumping on the elves (or anyone else that provoked it). According to goblins, there are four of them. 
 
-### Lakewyrm
+
+### Trehodet
+A beast with three heads, one from a boar, one from an eagle and one from an ox. It has eagle wings, ox hoves and the body of a boar. I was created by an elf sorcerer a long time ago. The sorcerer is long dead and it nests on cliff far into the forest, near the highlands. Orks hate it as it eats their cattle and is impossible to fight off. Elfs wonder why and how it was created, and whether a new sorcerer can gain control of it. 
+
+### Nøkken
+Sometimes a white pale horse, other times a handsome elf with a fiddle and sometimes a shadow deep under the water. Like Huldra, Nøkken tries to lure people into ponds and rivers where they'll probably drown. 
+
+### Sjøormene
 Ancient and wise, three lake wyrms live in the large lakes in the forest. They have knowledge of many things, but usually do not speak to people. 
 
 ### The dragon
 The dragon is a fearsome flying beast who breath fire. It's scales are as hard as steel. It was imprisoned in Drakefjellet by elven warriors thousand years ago, when the elves first conquered the forest. Though, it is immortal and it rages somewhere inside the mountain. Sometimes, smoke and fire spit out from the mountain as the dragon battles it's chains. 
 
+###Skyggefalk
+A flying shadow resembling a falcon, or a falcon resembling a shadow? Sometimes only an eerie shadow among the threes, someetimes a real threat who'll hunt you trough the forest, screaming and attacking with sharp talons out of nowhere. It's shadow form makes it impossible to harm. Some claim they were created by a long dead wizard and that they protect his tomb from plunderers. 
 
 Area: Nordvidda
 Regular animals: Muskoxen, reindeer, foxes, ermine, rock grouse and other animals you'd expect to to find arctic and sub-arctic highlands and mountains. 
@@ -74,7 +103,7 @@ Among the giant trees there's the giant deer, also known as _storkrone_. Enourmo
 The Jøtulkorp is an enourmous raven, with a wingspan the size of four skaukveg, known to have deep wisdom and ancient magic. It lives somewhere in Gammalskogen, but sometimes it roams other parts of the forest and is rumoured to visit important goblin _galdrer_ when it does. Whether it is one ancient raven, or a murder of them remains a mystery. 
 
 ### Lindorm
-Probably the main danger in Gammalskogen, these enourmous creeping wyrms have manes, sharp swordlong teeth and spit acidic poison. The two feet with long claws are mainly used for fighting. They'll consider people food, even though they can talk. They live in underground lairs, often connected by long tunnels and may suddenly spring forth from the earth when attacking. 
+Probably the main danger in Gammalskogen, these creeping wyrms have manes, sharp teeth and spit acidic poison. The young ones are the length of a goblin, but they grow larger the older they get. As they may live for centuries, they may be enourmous. The two feet with long claws are mainly used for fighting, either other lindorms or prey. They'll consider people food, even though they can talk. They live in underground lairs, often connected by long tunnels and older wyrms may suddenly break the ground and spring forth from the earth to attack. 
 
 ### Tordenormen
 Rumoured to be the largest and oldest lindorm, it's known as the _thunder wyrm_ as it may rise up and drop to the ground, creating a thunderlike blast due to it's massive size. 
@@ -85,7 +114,7 @@ Area: Myra
 Appearing as a beatiful woman (adapting to it's victims species) Huldra tries to lure males into the fen where they disappear in the mists never to been seen again. Some claim that Huldra drags the victom into the spirit world where they keep it as a mate, other claims that the victims drown in the mire while others claim that Huldra actually is an apparition from a monster that will eat the victim. Anyhow, unless you resist the seductive lure of Huldra, you will disappear in the mist never to be seen againg. 
 
 ### Morildorm
-Smaller than the lindorm, but still large enough to eat you, the wyrm hunts at night, pitch black until you're suddenly blinded by the flash from it's glowing body. 
+Not as big as the older lindorms, this wyrm is still large enough to eat you. It is pitch black, though with small glimpses of light similar to fireflies, until you're suddenly blinded by the flash from it's glowing body and then eaten. 
 
 ### Hulderkatt
 The size of a lynx, but white with light grey stripes, it hunts in the mists on the mire. Some claim it is Huldra's cat, others claim that it stems from the same spirit realm that she lives in. Others say that is isn't truly able to be invisible, it just is camoflouaged in the mists. 
@@ -108,7 +137,7 @@ They are very secretive about their origins, but it is believed to be somewhere 
 As crows they never stop growing, and some may be as large as a small goat, though most only appear as large crows. Most crows only stay in the same place for a few years, before they fly away. Presumably they fly to somewhere else, and sometimes they talk about places they've lived before. Exactly how old the crows can get is part of their secret, and maybe centuries old crows live somewhere in Gammelskogen. 
 
 ###Gammalkorp
-Similar to the gammalkråke, but a raven, and less common outside Gammalskogen. 
+Similar to the gammalkråke, but a raven, and less common outside Gammalskogen. Unlike they crows, they do not seek out people. 
 
 ###Gammalørn
 Enormous eagles who also can talk, they are sometimes seen in Gammalskogen, though they seem to live high up in the northern mountains.
