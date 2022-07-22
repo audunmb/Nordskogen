@@ -28,10 +28,11 @@ Jernskogen
 
 Gammelskogen
 
-Alveheiene
+Ildheiene
+A woodless area close to Dragefjellet. Home to elven furnaces, several Fire Temples. 
 
 Orkeheiene
-The highlands stretching into the western part of the mountains. Sometimes also known as Jernheiene, due to the orkish furnaces found here, or Sommerheiene as the cattle only grasses here during summer. Along with the 
+The highlands stretching into the western part of the mountains. Sometimes also known as Jernheiene, due to the orkish furnaces found here, or Sommerheiene as the cattle only grasses here during summer. During winter, the cattle treks into the forest and the orks follow. 
 
 Sunnheiene
 The highlands, above the wood line, stretching southwards into Nordfjellene (or Sunnfjellene as they are known as by the peoples of the forest). 
