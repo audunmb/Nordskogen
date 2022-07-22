@@ -20,3 +20,15 @@ Structure
 * Areas
   * Inhabitants (monsters and people)
   * Myths, mysteries, ruins and settlements
+
+
+Areas 
+
+Jernskogen
+
+Gammelskogen
+
+Alveheiene
+
+Orkeheiene
+
