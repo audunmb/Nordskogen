@@ -31,7 +31,7 @@ Gammelskogen
 Alveheiene
 
 Orkeheiene
-The highlands stretching into the western part of the mountains. Sometimes also known as Jernheiene, as this is 
+The highlands stretching into the western part of the mountains. Sometimes also known as Jernheiene, due to the orkish furnaces found here, or Sommerheiene as the cattle only grasses here during summer. Along with the 
 
 Sunnheiene
 The highlands, above the wood line, stretching southwards into Nordfjellene (or Sunnfjellene as they are known as by the peoples of the forest). 
