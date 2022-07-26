@@ -16,7 +16,7 @@ Haugfolk, called gnomes by dwarfs and halflings by humans, are easy to trade wit
 
 
 
-- Knight
+- Knight-Brothers
 
 The knights are commanders and fighters, wartorn, but eager to conquer new lands for the Light. 
 
@@ -24,7 +24,7 @@ The knights are commanders and fighters, wartorn, but eager to conquer new lands
 In the forest, the heavy knight with plate mail and warhorse is easily outrun and outwitted. The veideridder is the true knight of the forest, knowing the land and how to fight in it. More often with a bow than with a heavy sword, just as often on feet as on horseback, and preferring light armor and green cloaks over the shining white of other knights.
 
 
-- Cleric
+- Priest-Brothers
 
 While the knights use swords, the cleric uses the Light itself to fight Darkness and the forces of Death. 
 
@@ -41,3 +41,89 @@ While not officially part of any knightly order, troubadours are found with in a
 
 A knight without a sword and shield is no knight, and you make sure that works. Not the typical hero, but among dwarves the weaponsmith's status is that of a commander. You can't forge a weapon you don't know how to wield, so as well as forger you are also weaponmaster. 
 Dwarven steel is superior to the mithril bronze of the elves, but alveruner makes 
+
+
+
+Castle claims:
+Knights are connected to their castle, and live there like a monastic order. The castle order is the crew. The castle is led by the following roles:
+Komtur (leader of the knightbrothers and priestbrothers, but only a first among equals)
+Kanzler (in charge of seals, records, maps)
+'* Slottsmester (in charge of the castle economics, resources and Half-Brothers)
+'* Abbot (in charge of religious affairs and Priest-Brothers)
+'* Trapier (in charge of weapons and armed non-noble Sariantbrothers)
+'* Veidemester (in charge of exploration, hunting and woodmanship)
+
+At the Slotskapitel (Council), players take these roles and deceide the future plans of the castle. 
+
+
+
+
+
+
+### Starting castle upgrades:
+Wooden fortress (Veideborg)
+Half-brother cohort
+Sariantbrother cohort
+
+Choose one castle upgrade
+
+### Castle upgrades 
+Smithy
+Stables
+Farm
+Library
+Tower
+Stone walls
+Sariantbrothers
+Half-brothers
+Temple
+Quarters
+Hospital
+Training grounds
+Trading post
+
+
+
+Specialists:
+Librarian
+Weaponsmith
+Priest
+Stablemaster
+
+
+Trappers and hunters
+Settlers
+Village
+Inn
+Toll road
+Outpost
+
+People spceial ability (affect all Knights):
+Dwarven steel 
+
+
+Order special ability:
+Mastery
+Bonds of blood
+Hardened by war (Forged in Fire)
+
+
+
+
+Forest claims:
+
+Bailiwick (turf)
+Artifact
+Ancient knowledge
+Elven ally
+Elven spy
+Ork ally
+Ork spy
+
+
+
+
+
+
+
+
