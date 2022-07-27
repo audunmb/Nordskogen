@@ -22,3 +22,25 @@ A measure of your peoples relation to other people and factions in the forest.
 
 Hero status
 A measure of the hero groups relation to other factions among your own and among others. May be better or worse than your peoples status. You can trade hero status into people status.
+
+
+Councils
+
+At the council you can do actions for your people.
+
+* Add lore and history.
+* Manage resources.
+* Military actions. 
+* Diplomacy.
+* Internal politics. 
+* Explore and spy. 
+
+Turf rules? 
+
+How to represent how much of the forest each people has control over? Hold and Tier?
+
+Resource rules. 
+
+How to represent what kind of resources they need? 
+
+
