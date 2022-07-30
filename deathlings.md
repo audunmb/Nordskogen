@@ -1,4 +1,4 @@
-# Deathlings
+# Deadlings
 For aeons we've been bound by Death, having only a limited time and then for ever lost in the emptiness beyond time. After centuries of research, the necromancers found a way to breach the doors of time and bring us back. Now we are free. Trough the holy rites we can live forever. 
 
 Though, the old Kings and Priests feared our freedom and swore to destroy us. We had to fight them, even though we only wanted peace for both living and undead. We drove away those who hated us and built new cities swept in shadows to protect us.
@@ -30,5 +30,15 @@ You were brought back from the dead to fight in the war, with the promise of ete
 
 Dark Council
 The council of fugitives are small and without designated leaders. It starts with the Necromancer doing the holy rites, and then anyobe can bring up any question. 
+
+
+# Quests
+
+- Explore the forest as you search for a safe haven
+- Secure the lair
+- Defend the necromancer
+- Resurrect the Dragon
+- Create a new portal
+- Create the shade 
 
 
