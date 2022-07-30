@@ -14,7 +14,7 @@ Drop Coin, add more specific rewards related to faction mechanics.
 
 More magic and magical items. 
 
-Monsters!
+[Monsters!](Nordskogenmonster.md)
 
 # Additional
 
