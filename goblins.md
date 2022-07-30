@@ -26,3 +26,12 @@ Noone knows the forest as good as the goblin hunters, moving swiftly, next to in
 
 Goblins don’t fight in battles, they come suddenly and fiercly, taking what they came for, whether it is your goods or your life, and disappear again. Goblin raiders are feared by everyone in the forest, even the mighty Knights.
 
+
+# Quests
+
+- Save the ancient grove
+- Wake the Dragon
+- Stop the skeleton attacks
+- Destroy the legendary sword
+- Burn the Temple
+- Free the ork king
