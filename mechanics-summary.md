@@ -14,7 +14,7 @@ Drop Coin, add more specific rewards related to faction mechanics.
 
 More magic and magical items. 
 
-[Monsters!](Nordskogenmonster.md)
+[Monsters!](Nordskogsmonster.md)
 
 # Additional
 
@@ -25,7 +25,19 @@ More rules for factions and resources.
 ## Switch
 The intended mode of play is to play a few sessions with one group of heroes. Then you switch people, create new heroes and play continue in the same timeline. Whatever happened so far has happened, though you perceive this very differently and need to fix whatever your previous characters have done. 
 
-Possibly a clock to deceide when the characters should switch. 
+Several clocks could be used to decide when to switch. 
+
+A "Dire Need"-clock for each people, that is filled by up by threats to the people. Character actions, as well as actions by other factions (fortune rolls by the GM) add threats to each People. When the clock is full, the players step in aa heroes ro save them.
+
+A "Quest"-clock tracks how far the current heroes are in their adventures. Tick one for each session and for each finished quest. When it's full, switch to new heroes for whatever people is in most need of heroes.
+The quest clock starts at 12 segments for each People. After a few switches you will be back to play those heroes again, but then this clock should only have 10 segments. Continue reducing the number of segments in this way until there's only four. At this point, most "Dire Need"-clocks should be full enough to switch for each session. 
+
+XP when switching. When you switch, you get a bonus of half the XP you've earned with the current Quest-clock to bring with you to the next People. This stacks up, so count in the XP you brought with you from the last switch when calculate how much XP you got. 
+
+Example:
+_As Knights you earned 10 XP during the current clock. You played as Shadow Elves before that and earned 8 XP as Shadow Elf, bringing 4 to start with as Knights. Now you play Deadlings. So starting as Deadlings you get half of the total of 4+10, ie 7 XP. 
+
+Don't this the first time you play a People. 
 
 ## Council
 similar to Band of Blades with overarching decisions for the people your heroes represent.
