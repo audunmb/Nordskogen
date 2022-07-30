@@ -31,3 +31,13 @@ The storytellers of the orks are both diplomats and leaders, and as important to
 
 - Beastmaster
 
+
+
+# Quests
+
+- Save the passing
+- Visit the ancestral lands 
+- Find the Ogre elders
+- Destroy the lineage of the Alvedrott
+- Slay the Dragon
+- Burn the castle 🏰
