@@ -121,7 +121,14 @@ Ork ally
 Ork spy
 
 
+# Quests
 
+- Save the village
+- Find the legendary sword ⚔️
+- Save the Elven princess
+- Kill the ork king
+- Slay the dragon 🐉
+- Destroy the necromancer
 
 
 
