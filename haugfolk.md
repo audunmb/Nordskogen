@@ -25,3 +25,9 @@ The closest thing to a warrior in the haugfolk communities, the guardians are tr
 
 More priced than the minstrel among the other peoples of the forest, the tinkerers also travel around, but fixes and trades utensils of many kinds.
 
+# Quests
+- Steal the legendary sword
+- Defend the mounds
+- Kidnap the Elven princess/Ork king
+- Steal the dragons hoard
+
