@@ -35,7 +35,7 @@ The quest clock starts at 12 segments for each People. After a few switches you 
 XP when switching. When you switch, you get a bonus of half the XP you've earned with the current Quest-clock to bring with you to the next People. This stacks up, so count in the XP you brought with you from the last switch when calculate how much XP you got. 
 
 Example:
-_As Knights you earned 10 XP during the current clock. You played as Shadow Elves before that and earned 8 XP as Shadow Elf, bringing 4 to start with as Knights. Now you play Deadlings. So starting as Deadlings you get half of the total of 4+10, ie 7 XP. 
+_As Knights you earned 10 XP during the current clock. You played as Shadow Elves before that and earned 8 XP as Shadow Elf, bringing 4 to start with as Knights. Now you play Deadlings. So starting as Deadlings you get half of the total of 4+10, ie 7 XP._
 
 Don't this the first time you play a People. 
 
@@ -43,3 +43,16 @@ Don't this the first time you play a People.
 similar to Band of Blades with overarching decisions for the people your heroes represent.
 
 Probably add playbooks for each council member similar to Band of Blades as well as some mechanics from Legacy. 
+
+
+# Travel
+Most of the forest is dangerous.
+
+Roll Action to travel. its a group action.
+
+the territory is position for travel. is it controlled, risky or desperate. it depends on who, if anyone, controls the territory, their faction status with you, as well the nature itself with animals, obstacles and hazards. 
+
+on 1 yo 3 you will run into trouble on the way, which has to be settled trough play  this basically starts a score 
+on 4 and 5 there are consequences.
+on 6 you succeed in traceling to your destination. crit gives you a bonus. 
+
