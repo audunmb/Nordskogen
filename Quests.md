@@ -1,8 +1,6 @@
 # Quests 
 
 
-Murder for hire, brutal extortion, dark rituals, illicit deals, smuggling runs, thievery in the shadows—these are the exploits of the scoundrels of Duskwall—the only chances left for those pushed to the margins and denied the privileges of the corrupt and predatory elite.
-
 Defend the innocent, fight monsters, explore the unknown, uncover the secrets of the forest, revover ancient artifacts, learn the mysteries of magic - be a hero. 
 
 In Nordskogen we play to find out how heroes will be a champion of their people and cause, and what other heroes will do to thwart them. 
