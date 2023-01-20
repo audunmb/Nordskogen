@@ -8,6 +8,23 @@ Quests are what heroes does, and Nordskogen is a place for such quests. A quest 
 Quests consists of journeys and challenges. At the start of a quest, the group must declare where they want to go and with what goal. These two details are important, and set up the quest. 
 
 Then, they choose their loadout. (LOAD-rules here).
+## Load
+Light: 3 load
+Medium: 5
+Packed: 7
+Max: 10
+
+There's group load and individual load. Group load represents the full load of the group, with rations and travelling gear. 
+
+Rations 
+The group need to pack rations. One day of rations for a group of three to five people adds one load. Create a ration clock to represent how many days of rations the group has.  
+
+Pack animals and wagons
+Animals have extra load. Riding animals may have Medium load, pack animals may have up to 10.
+
+Wagons may add 
+
+
 
 
 
@@ -17,12 +34,17 @@ Once they've deceided where to go, roll for the journey there. This deceides wha
 
 Once the players choose a quest and provide its details, the GM cuts to the action—describing the scene as the group encounters their first obstacle. But how is this established? The way the GM describes the start of the journey can have a huge impact on how simple or troublesome it turns out to be. Rather than expecting the GM to simply “get it right” each time, we use a dice roll instead. This is the *journey* roll. The roll deceides how far they come before they meet their first challenge. 
 
+On 1-3: something happens in the first part of rhe journey, and they have to face a challenge in a Desperate starting position. Only one segment is filled. 
+On 4-5: they get the effect, but run into trouble. 
+On 6: they travel without issue and can choose what challenge they want to face in a Controlled starting position.
+On critical: as 6, but something good happens along the way, 
+
 
 ### version 1
 The journey roll is a fortune roll, which deceides how far they come before they meet their first challenge. How that challenge looks depends on how risky the journey is, and how far they come depends on the effect. 
 
 Position:
-Journeys may Controlled, Risky or Desperate. This depends largely on the territority one journeys trough. Are there allies or enemies there? Does the characters know the area? Do their people know this area or is it unknown lands? Is the nature wild and difficult to travel trough? Are there monsters there?
+Journeys may be Controlled, Risky or Desperate. This depends largely on the territority one journeys trough. Are there allies or enemies there? Does the characters know the area? Do their people know this area or is it unknown lands? Is the nature wild and difficult to travel trough? Are there monsters there?
 
 The time is also of essence, as they might be in a rush to reach the goal before something bad happens, which may make it more risky. 
 The players may trade effect
