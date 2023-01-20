@@ -14,16 +14,20 @@ Medium: 5
 Packed: 7
 Max: 10
 
-There's group load and individual load. Group load represents the full load of the group, with rations and travelling gear. 
+There's group load and individual load. Group load represents the full load of the group, with rations and travelling gear. If the group has animals, group load is first counted on animals.
 
-Rations 
+Group load has to be divided among the members if the group, taking up slots that could have been used for individual load. 
+
+### Rations and travelling gear
 The group need to pack rations. One day of rations for a group of three to five people adds one load. Create a ration clock to represent how many days of rations the group has.  
 
-Pack animals and wagons
-Animals have extra load. Riding animals may have Medium load, pack animals may have up to 10.
+Traveling gear is what's needed to make camp and maintain equipment. You can do without, but it makes it more difficult to rest and recover stress. 
 
-Wagons may add 
+### Pack animals
+Animals have extra load. Riding animals may have Medium load, pack animals may have up to 10. More animals means more load. 
 
+### Hunting and gathering
+You may resupply rations by stopping and doing a Hunt action. 
 
 
 
