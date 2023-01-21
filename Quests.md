@@ -5,7 +5,8 @@ Defend the innocent, fight monsters, explore the unknown, uncover the secrets of
 
 Quests are what heroes does, and Nordskogen is a place for such quests. A quest has a goal, though often you discover that the goal changes as you discover more about your quest. 
 
-Quests consists of journeys and challenges. At the start of a quest, the group must declare where they want to go and with what goal. These two details are important, and set up the quest. 
+Quests consists of Journeys and Challenges. At the start of a quest, the group must declare where they want to go and with what goal. These two details are important, and set up the quest. 
+Quests are finished when the quest clock is filled. The quest clock represents both the journey and the challenges the heroes face. The clock might change if the quest changes. 
 
 Then, they choose their loadout. (LOAD-rules here).
 ## Load
@@ -21,7 +22,9 @@ Group load has to be divided among the members if the group, taking up slots tha
 ### Rations and travelling gear
 The group need to pack rations. One day of rations for a group of three to five people adds one load. Create a ration clock to represent how many days of rations the group has.  
 
-Traveling gear is what's needed to make camp and maintain equipment. You can do without, but it makes it more difficult to rest and recover stress. 
+Traveling gear is what's needed to make camp and maintain equipment. You don't need to bring travel gear, but most would if they have to. Light travel gear count for one load for the group, which means easy preparation of food, as well as a water skin. This gives one extra die for rest. Basic travel gear count for three group load and include blankets, and adds two rest die. Full travel gear counts for one load per person, and means some pots and pans, a roll mat and blankets. 
+
+Rations still count as load, even after they're eaten, as it still took up place when you packed (though, if you pick up new stuff,you don't have to drop anything to make room of course.)
 
 ### Pack animals
 Animals have extra load. Riding animals may have Medium load, pack animals may have up to 10. More animals means more load. 
